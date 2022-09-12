@@ -1,5 +1,5 @@
 ### Olá! Meu nome é Tânia e sou estudante de Desenvolvimento de Software! Seja bem-vindo(a) ao meu perfil do GitHub! 👋
-### Hi! I'm Tania and I'm software development student! Welcome to my GitHub profile! 👋
+### Hi! I'm Tania and I'm a software development student! Welcome to my GitHub profile! 👋
 
 <p align="center">
 <a href="https://instagram.com/_taniaoliveira_"><img src="https://img.shields.io/badge/-@_taniaoliveira__-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
