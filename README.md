@@ -2,7 +2,7 @@
 ### Hi! I'm Tania and I'm a software development student! Welcome to my GitHub profile! 👋
 
 <p align="center">
-<a href="https://instagram.com/_taniaoliveira_" target_blank><img src="https://img.shields.io/badge/-@_taniaoliveira__-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+<a href="https://instagram.com/_taniaoliveira_"><img src="https://img.shields.io/badge/-@_taniaoliveira__-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/tâniamariadeoliveira"><img src="https://img.shields.io/badge/-tâniamariadeoliveira-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:oliveiratania1@gmail.com"><img src="https://img.shields.io/badge/-oliveiratania11@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
